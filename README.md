@@ -94,7 +94,6 @@ Python 3.10+
 ```
 
 Required packages
-
 ```
 numpy
 scipy
@@ -104,14 +103,6 @@ librosa
 soundfile
 PyWavelets
 ```
-
-Install packages
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 # 📖 Book Information
 
@@ -126,140 +117,6 @@ pip install -r requirements.txt
 **Publisher**
 
 全華圖書股份有限公司
-
----
-
-# 📑 Chapters
-
-### Chapter 1 Introduction
-
-- Signals
-- Systems
-- Signal Processing
-- DSP Applications
-- Audio File Formats
-- Python Programming
-
-### Chapter 2 Analog Signals
-
-- Sine Waves
-- Complex Numbers
-- Complex Exponential Signals
-- Phasors
-
-### Chapter 3 Digital Signals
-
-- Sampling
-- Quantization
-- Digital Audio
-- Real-time Visualization
-
-### Chapter 4 Signal Generation
-
-- Periodic Signals
-- Aperiodic Signals
-
-### Chapter 5 Noise
-
-- Uniform Noise
-- Gaussian Noise
-- Brownian Noise
-- Impulse Noise
-- Signal-to-Noise Ratio
-
-### Chapter 6 DSP Systems
-
-- DSP Operations
-- Sampling Rate Conversion
-- Audio DSP
-
-### Chapter 7 Convolution
-
-- Linear Convolution
-- Audio Filtering
-
-### Chapter 8 Correlation
-
-- Cross Correlation
-- Auto Correlation
-- Applications
-
-### Chapter 9 Fourier Analysis
-
-- Fourier Series
-- Fourier Transform
-- DTFT
-- DFT
-
-### Chapter 10 z-Transform
-
-- z Transform
-- Transfer Functions
-- Poles and Zeros
-
-### Chapter 11 FIR Filters
-
-- FIR Theory
-- FIR Design
-- FIR Applications
-
-### Chapter 12 IIR Filters
-
-- Impulse Response
-- Step Response
-- IIR Applications
-
-### Chapter 13 Spectrum Analysis
-
-- Fourier Spectrum
-- Power Spectral Density
-
-### Chapter 14 Frequency Response
-
-- Filter Types
-- Frequency Response
-
-### Chapter 15 Frequency Domain DSP
-
-- Ideal Filters
-- Spectrum Shifting
-- Frequency Domain Processing
-
-### Chapter 16 Filter Design
-
-- Window Functions
-- FIR Design
-- IIR Design
-
-### Chapter 17 Time-Frequency Analysis
-
-- Short-Time Fourier Transform (STFT)
-- Spectrogram
-- Audio Time-Frequency Analysis
-
-### Chapter 18 Wavelet Transform
-
-- Continuous Wavelet Transform
-- Discrete Wavelet Transform
-- Wavelet Audio Processing
-
-### Chapter 19 DSP Applications
-
-- Digital Music Synthesis
-- Speech Synthesis
-- Speech Recognition
-
----
-
-# 🎓 Intended Audience
-
-- Electrical Engineering
-- Electronic Engineering
-- Computer Science
-- Artificial Intelligence
-- Digital Signal Processing
-- Audio Signal Processing
-- Self-learning
 
 ---
 
