@@ -279,7 +279,7 @@ pip install -r requirements.txt
 
 Professor
 
-Department of Computer Science and Information Engineering
+Department of Information & Computer Engineering
 
 Chung Yuan Christian University
 
