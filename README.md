@@ -61,29 +61,25 @@ Official Python source codes accompanying the textbook
 ```text
 DSP-Python
 │
-├── Chapter01
-├── Chapter02
-├── Chapter03
-├── Chapter04
-├── Chapter05
-├── Chapter06
-├── Chapter07
-├── Chapter08
-├── Chapter09
-├── Chapter10
-├── Chapter11
-├── Chapter12
-├── Chapter13
-├── Chapter14
-├── Chapter15
-├── Chapter16
-├── Chapter17
-├── Chapter18
-├── Chapter19
-│
-├── datasets
-├── images
-├── requirements.txt
+├── Ch01
+├── Ch02
+├── Ch03
+├── Ch04
+├── Ch05
+├── Ch06
+├── Ch07
+├── Ch08
+├── Ch09
+├── Ch10
+├── Ch11
+├── Ch12
+├── Ch13
+├── Ch14
+├── Ch15
+├── Ch16
+├── Ch17
+├── Ch18
+├── Ch19
 └── README.md
 ```
 
