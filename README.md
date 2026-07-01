@@ -1,8 +1,8 @@
 # 數位訊號處理－Python 程式實作
-# Digital Signal Processing with Python
+# Digital Signal Processing with Python Programming
 
 <p align="center">
-  <img src="images/book_cover.jpg" width="360">
+  <img src="Images/book_cover.jpg" width="360">
 </p>
 
 Official Python source codes accompanying the textbook
