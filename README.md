@@ -83,8 +83,6 @@ DSP-Python
 └── README.md
 ```
 
----
-
 # 🐍 Python Environment
 
 Recommended Python Version
