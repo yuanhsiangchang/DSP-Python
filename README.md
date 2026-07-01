@@ -44,15 +44,15 @@ Official Python source codes accompanying the textbook
 | Chapter 8 | 相關 (Correlation) |
 | Chapter 9 | 傅立葉級數與轉換 (Fourier Series & Fourier Transform) |
 | Chapter 10 | z 轉換 (z-Transform) |
-| Chapter 11 | FIR 濾波器 |
-| Chapter 12 | IIR 濾波器 |
+| Chapter 11 | FIR 濾波器 (FIR Filters) |
+| Chapter 12 | IIR 濾波器 (IIR Filters) |
 | Chapter 13 | 頻譜分析 (Spectrum Analysis) |
 | Chapter 14 | 頻率響應 (Frequency Response) |
-| Chapter 15 | 頻率域 DSP |
-| Chapter 16 | 濾波器設計 |
+| Chapter 15 | 頻率域 DSP (DSP in Frequency Domain) |
+| Chapter 16 | 濾波器設計 (Filter Design) |
 | Chapter 17 | 時頻分析 (Time-Frequency Analysis) |
 | Chapter 18 | 小波轉換 (Wavelet Transform) |
-| Chapter 19 | DSP 技術應用 |
+| Chapter 19 | DSP 技術應用 (Applications of DSP Techniques) |
 
 ---
 
