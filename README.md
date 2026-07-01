@@ -2,7 +2,7 @@
 ## Digital Signal Processing with Python
 
 <p align="center">
-<img src="images/book_cover.jpg" width="360">
+<img src="Images/book_cover.jpg" width="360">
 </p>
 
 <p align="center">
