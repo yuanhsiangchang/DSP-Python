@@ -1,17 +1,11 @@
 # 數位訊號處理－Python 程式實作
-## Digital Signal Processing with Python
+# Digital Signal Processing with Python
 
 <p align="center">
-<img src="Images/book_cover.jpg" width="360">
+  <img src="images/book_cover.jpg" width="360">
 </p>
-
-<p align="center">
 
 Official Python source codes accompanying the textbook
-
-<strong>《數位訊號處理－Python 程式實作》</strong>
-
-</p>
 
 ---
 
