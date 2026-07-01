@@ -7,7 +7,7 @@
 
 <p align="center">
 
-Official Python source codes accompanying the Chinese textbook
+Official Python source codes accompanying the textbook
 
 <strong>《數位訊號處理－Python 程式實作》</strong>
 
