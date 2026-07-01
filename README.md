@@ -1,4 +1,4 @@
-# 數位訊號處理－Python 程式實作
+# 數位訊號處理－Python 程式實作 (第三版)
 # Digital Signal Processing with Python Programming
 
 <p align="center">
